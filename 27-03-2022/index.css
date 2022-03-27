@@ -8,11 +8,22 @@ h4{
 table{
     text-align: center;
 }
+#r1{
+    background-color: aquamarine;
+}
+#b1,#b2,#b3,#b4{
+    background-color: aquamarine;
+}
 #r2{
+    background-color: blanchedalmond;
     height: 65px;
 }
 #r3{
+    background-color: blanchedalmond;
     height: 40px;
+}
+#r4,#r5{
+    background-color: blanchedalmond;
 }
 #sr1{
     height: 40px;
